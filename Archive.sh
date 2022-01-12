@@ -158,4 +158,3 @@ else
 echo "Something wrong with attributes, exiting"
 exit 1
 fi
-
