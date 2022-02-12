@@ -1,0 +1,7 @@
+[Unit]
+Description=Script 2 - Final task
+After=network.target
+[Service]
+ExecStart=/usr/local/bin/script2.sh
+[Install]
+WantedBy=multi-user.target
