@@ -1,3 +1,1 @@
-final-bash/script1/.env
-final-bash/script2/.env2
-final-bash/script2/.env2.bak
+*.env
